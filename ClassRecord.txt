@@ -1,7 +1,2 @@
 1	Male	Marc	Dimacuha		98	98	95	94
 2	Female	Lia	Ysabelle		91	92	94	93
-
-3	Female	Esguerra	Marianne		99	99	99	99
-4	Female	Marianne	Esguerra		99	99	99	99
-5	Female	Esguerra	Gayle		99	99	99	99
-6	1	1	1		1	1	1	1
